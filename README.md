@@ -49,7 +49,7 @@ A copy of my **resume (PDF)** is included in this repository and also downloadab
 
 ## ⚡ How to Run Locally
 1. Clone this repository:
-   git clone https://github.com/your-username/portfolio-website.git
+   https://mohamedsobhymohamed.github.io/portfolio-website/
 2. Open MyPortofolio.html in your browser.
 (No server setup required — it’s a static site.)
 
